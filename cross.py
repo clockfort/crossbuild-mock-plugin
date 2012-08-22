@@ -14,8 +14,8 @@ import time
 import subprocess
 
 # our imports
-from mock.trace_decorator import decorate, traceLog, getLog
-import mock.util
+from mockbuild.trace_decorator import decorate, traceLog, getLog
+import mockbuild.util
 
 requires_api_version = "1.0"
 
